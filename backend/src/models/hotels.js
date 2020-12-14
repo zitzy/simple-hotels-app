@@ -26,7 +26,7 @@ module.exports = hotelList = [
     location: 'Oslo',
     pricePerNight: 220,
     imageUrl:
-      'https://images.pexels.com/photos/96444/pexels-photo-96444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      'https://images.pexels.com/photos/161758/governor-s-mansion-montgomery-alabama-grand-staircase-161758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     rating: 4,
   },
   {
@@ -36,7 +36,7 @@ module.exports = hotelList = [
     location: 'Dubai',
     pricePerNight: 550,
     imageUrl:
-      'https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      'https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     rating: 5,
   },
   {
@@ -46,7 +46,7 @@ module.exports = hotelList = [
     location: 'London',
     pricePerNight: 77,
     imageUrl:
-      'https://images.pexels.com/photos/2467558/pexels-photo-2467558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-    rating: 4,
+      'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    rating: 3,
   },
 ];
