@@ -24,7 +24,7 @@ In 3 separate terminals move to service folder and run:
 yarn
 ```
 
-to install the dependencies:
+to install the dependencies.
 
 In same fashion run:
 
@@ -39,6 +39,6 @@ The order for starting the app succesfully is:
 - api-gateway
 - frontend
 
-NOTE: This is subject to change, as dockerizing the parts and running them in compose would be much more convenient
+NOTE: This is subject to change, as dockerizing the app parts(services) and running them in docker-compose would be much more convenient
 
-Please see each service's README.md file for more info
+Please see each service's README.md file for more info about service
