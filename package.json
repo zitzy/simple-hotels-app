@@ -1,0 +1,11 @@
+{
+  "name": "simple-hotel-app",
+  "version": "0.0.1",
+  "description": "Simple hotel app from 3 parts",
+  "main": "index.js",
+  "author": "Zitzy",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo To run the whole app please visit README.md file for info"
+  }
+}
