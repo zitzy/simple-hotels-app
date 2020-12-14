@@ -13,7 +13,7 @@ App suits presentation/demonstration purpose so far.
 ### Clone repo
 
 ```bash
-git clone ...
+git clone https://github.com/zitzy/simple-hotels-app.git
 ```
 
 ### Running the application
